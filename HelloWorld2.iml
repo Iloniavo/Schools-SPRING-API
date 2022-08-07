@@ -15,7 +15,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
-          <factory-entry name="HelloWorld2" />
+          <factory-entry name="HelloWorld2" value="50f42124-af76-43e7-8aa8-154b5e185c52" />
         </datasource-mapping>
         <naming-strategy-map />
       </configuration>
